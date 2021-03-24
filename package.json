@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/steger-risingbytes/express-template/issues"
   },
-  "homepage": "https://github.com/steger-risingbytes/express-template#readme"
+  "homepage": "https://github.com/steger-risingbytes/express-template#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
 }
